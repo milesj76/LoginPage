@@ -19,6 +19,10 @@ a:hover {
     color: rgb(97, 125, 211);
 }
 
+input:text {
+    outline: none;
+}
+
 /* Main Containers */
 
 .main-container {
